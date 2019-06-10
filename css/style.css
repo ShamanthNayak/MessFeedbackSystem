@@ -1,0 +1,15 @@
+#main-carousel {
+  height: 70vh;
+}
+
+.text-center {
+    text-align: center;
+}
+
+#exp input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
